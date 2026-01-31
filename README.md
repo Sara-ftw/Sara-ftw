@@ -46,13 +46,6 @@
 
 ---
 
-## Currently
-- Improving my full-stack development skills  
-- Learning more about **AI & ML fundamentals**  
-- Exploring better UI/UX and modern web practices  
-
----
-
 <p align="center">
   <i>"Learning never stops — especially in tech."</i>
 </p>
