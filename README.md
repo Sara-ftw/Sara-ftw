@@ -4,11 +4,11 @@
 
 <!-- Background section -->
 <p align="center">
-  <img src="images/2.JPG" width="100%" />
+  <img src="images/22.jpg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+Intern;Creative+%26+UI-focused+Builder;Curious+about+AI+%26+Machine+Learning;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&color=E76F51&lines=Full+Stack+Web+Developer+Intern;Creative+%26+UI-focused+Builder;Curious+about+AI+%26+Machine+Learning;Always+Learning" />
 </p>
 
 ---
