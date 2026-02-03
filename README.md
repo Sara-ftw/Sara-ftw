@@ -15,37 +15,25 @@
 
 ## About Me
 - Advanced Technologies **engineering student**
-- Completed a **full-stack web development internship**, building cool and modern websites
-- Creative, adaptable, and comfortable working **under pressure**
-- I enjoy designing and developing **modern, aesthetic, and functional experiences**
+- Completed a **full-stack web development internship** building cool and modern websites
+- Creative, adaptable, and can working **under pressure**
+- Enjoys designing
 - Still learning and constantly improving
 
 ---
 
 ## Tech Stack
-
-### Web Development
-- **Front-end:** HTML, CSS, JavaScript, React  
-- **Back-end:** Django, Node.js  
-- **Databases:** SQLite  
-- **Programming:** Python  
-
-### Programming Languages
-- C • C++ • Java • MATLAB  
-
-### Design
-- Figma  
+<p align="center"">
+  <img src="https://skillicons.dev/icons?i=css,js,react,django,nodejs,sqlite,python,c,cpp,java,matlab,figma,postgres,git,vscode" />
+</p>
 
 ---
 
 ## Community & Clubs
-- Actively involved in student clubs and initiatives  
+- Actively involved in college clubs and events  
 - Use my technical and creative skills to **support club projects**
 - Roles include **HR Manager**, **Marketing Member**, and technical contributor  
-- I love learning from teamwork and helping others grow
+- Love learning from teamwork and helping others grow
 
 ---
 
-<p align="center">
-  <i>"Learning never stops — especially in tech."</i>
-</p>
