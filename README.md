@@ -15,7 +15,7 @@
 
 ## About Me
 - Advanced Technologies **engineering student**
-- Completed a **full-stack web development internship** building cool and modern websites
+- Completed a **full-stack web development internship** building modern websites
 - Creative, adaptable, and can working **under pressure**
 - Enjoys designing
 - Still learning and constantly improving
